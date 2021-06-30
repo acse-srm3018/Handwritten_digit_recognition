@@ -10,8 +10,8 @@ Image of size 28 X 28
 # Requirements
 
 * Python 3.5 +
-* Scikit-Learn (latest version)
-* Numpy (+ mkl for Windows)
+* Scikit-Learn
+* Numpy 
 * Matplotlib
 
 # Introduction
