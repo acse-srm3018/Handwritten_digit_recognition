@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition using Machine Learning and Deep Learning
+# Handwritten Digit Recognition using Deep Learning
 
 Classification MNIST datasets using Convolutional Network and Keras libraries
 
