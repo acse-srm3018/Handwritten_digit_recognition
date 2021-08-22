@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition using Deep Learning
 
-Classification MNIST datasets using Convolutional Network in pytorch framework
+Classification MNIST datasets using Keras libraries and Convolutional Network
 
 ## MNIST dataset:
 
